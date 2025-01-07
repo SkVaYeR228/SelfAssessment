@@ -1,7 +1,7 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js
+  - Strong and weak sides of node.js +
   - Stateful and stateless servers
   - Nonblocking I/O and blocking code
   - Event loop phases
@@ -17,8 +17,8 @@
   - Caching in CJS and ESM
   - Modules as singletons
   - Contexts and scripts module `node:vm`
-  - Dependencies: `npm`, `node_modules`
-  - Files `package.json`, `package-lock.json`
+  - Dependencies: `npm`, `node_modules` +
+  - Files `package.json`, `package-lock.json` +
   - Module-based permissions model
   - Isolation with modularity
   - Dependency injection
@@ -94,8 +94,8 @@
   - Application configuring
   - Testing
   - CI/CD
-  - Readable
-  - Writable
+  - Readable +
+  - Writable +
   - Transform
   - Back pressure
   - Buffer
@@ -103,14 +103,14 @@
   - Inspector
 - Data access
   - Data access layer
-  - Repository
+  - Repository +
   - Active record
   - Query builder
   - Object-Relational Mapping
   - CRUD
   - DTO
 - Error handling and debugging
-  - `Error`
+  - `Error` +
   - `error.cause`
   - `error.code`
   - `error.message`
@@ -129,7 +129,7 @@
   - `C` and `C++` addons
   - `Rust` addons
   - `Zig` addons
-  - NAN (Native Abstractions for Node.js)
+  - NAN (Native Abstractions for Node.js) +
   - Node-API (formerly N-API)
   - NAPI `C` and `C++`
   - NAPI `Rust`
