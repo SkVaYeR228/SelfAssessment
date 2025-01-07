@@ -11,10 +11,10 @@
   - Paradigm
   - Programm
   - Programming paradigm
-  - Programming language
+  - Programming language +
   - Contract
   - Module
-  - Library
+  - Library +
   - Package
   - Component
   - Framework
@@ -32,18 +32,18 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value
-  - Identifier
+  - Value +
+  - Identifier +
   - Variable
   - Constant
   - Scalar
   - Literal
   - Expression
   - Heap
-  - Function
+  - Function +
   - Procedure
   - Method
-  - Class
+  - Class +
   - Prototype
   - Event
   - Type
@@ -51,7 +51,7 @@
   - Lexical scope
   - Code block
   - Conditions
-  - Loops
+  - Loops +
   - Assignment
   - Regular expression
   - Interface
@@ -105,12 +105,12 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array
+  - Array +
   - Structure
   - Record
   - Enum
   - Instance
-  - Object
+  - Object +
   - Collection
   - Set
   - Hash table
@@ -153,7 +153,7 @@
   - Dynamic linking
   - Static linking
   - Runtime
-  - Virtual machine
+  - Virtual machine +
   - Register-based VM
   - Stack-based VM
   - Containerization
@@ -203,7 +203,7 @@
   - Yo-yo problem
 - Runtimes and virtual machines
   - Bytecode
-  - V8
+  - V8 +
   - VJM
   - CLR
   - Mono
@@ -218,7 +218,7 @@
   - Unix
   - BSD
   - MacOS
-  - Windows
+  - Windows +
   - Real-time OS
   - Embedded OS
 - Standards
