@@ -1,17 +1,17 @@
 ## JavaScript
 
 - Language
-  - `Object`
-  - `Function`
-  - `Boolean`
-  - `Number`
-  - `BigInt`
-  - `String`
-  - `Symbol`
+  - `Object` ~
+  - `Function` ~
+  - `Boolean` ~
+  - `Number` ~
+  - `BigInt` ~
+  - `String` ~
+  - `Symbol` ~
   - `Infinity`
-  - `NaN`
-  - `undefined`
-  - `null`
+  - `NaN` ~
+  - `undefined` ~
+  - `null` ~
   - `this`
   - `instanceof`
   - `...spread`
@@ -59,10 +59,10 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if`
-  - `while`
-  - `do..while`
-  - `for`
+  - `if` +
+  - `while` +
+  - `do..while` +
+  - `for` +
   - `for..in`
   - `for..of`
   - `for await`
@@ -73,8 +73,8 @@
   - `export`
   - `label`
   - `try..catch`
-  - `switch`
-  - `class`
+  - `switch` +
+  - `class` +
   - `extends`
   - `with`
   - `new`
