@@ -7,11 +7,11 @@
   - Schema versioning
   - Backup and recovery
   - Database scalability
-  - Relational databases
+  - Relational databases +
   - Key-value store
   - Tuple store
   - Graph databases
-  - Object databases
+  - Object databases +
   - Column databases
   - Navigational databases
   - Hierarchical databases
@@ -31,37 +31,37 @@
   - Views
   - Subqueries
   - Stored procedures
-  - SQL functions
+  - SQL functions +
   - Materialized views
   - Replications
   - Virtualization
 - SQL
-  - `SELECT`
-  - `INSERT`
-  - `UPDATE`
-  - `DELETE`
-  - `LIMIT`
-  - `OFFSET`
+  - `SELECT` +
+  - `INSERT` +
+  - `UPDATE` +
+  - `DELETE` +
+  - `LIMIT` +
+  - `OFFSET` +
   - `ORDER BY`
   - `GROUP BY`
   - `HAVING`
   - `EXISTS`
-  - `JOIN`
-  - `INNER JOIN`
-  - `LEFT JOIN`
-  - `RIGHT JOIN`
+  - `JOIN` +
+  - `INNER JOIN` +
+  - `LEFT JOIN` +
+  - `RIGHT JOIN` +
   - `UNION`
   - `DISTINCT`
   - `WHERE`
   - `LIKE`
   - `IN`
-  - `BETWEEN`
-  - `CREATE TABLE`
-  - `ALTER TABLE`
-  - `DROP TABLE`
-  - `PRIMARY KEY`
-  - `FOREIGN KEY`
-  - `CHECK`
+  - `BETWEEN` +
+  - `CREATE TABLE` +
+  - `ALTER TABLE` +
+  - `DROP TABLE` +
+  - `PRIMARY KEY` +
+  - `FOREIGN KEY` +
+  - `CHECK` +
   - `DEFAULT`
   - `INDEX`
   - `UNIQUE`
@@ -72,9 +72,9 @@
 - Engines
   - PostgreSQL
   - Oracle
-  - MySQL
+  - MySQL +
   - MariaDB
-  - MS SQL Server
+  - MS SQL Server +
   - Redis
   - Rabbit
   - MongoDB
