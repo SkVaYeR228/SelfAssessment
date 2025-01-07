@@ -1,17 +1,17 @@
 ## JavaScript
 
 - Language
-  - `Object`
-  - `Function`
-  - `Boolean`
-  - `Number`
-  - `BigInt`
-  - `String`
-  - `Symbol`
+  - `Object` +
+  - `Function` +
+  - `Boolean` +
+  - `Number` +
+  - `BigInt` +
+  - `String` +
+  - `Symbol` +
   - `Infinity`
-  - `NaN`
-  - `undefined`
-  - `null`
+  - `NaN` +
+  - `undefined` +
+  - `null` +
   - `this`
   - `instanceof`
   - `...spread`
@@ -19,7 +19,7 @@
   - `typeof`
   - Destructuring
   - Generators
-  - Iterators
+  - Iterators ~
   - Async generator
   - Async iterator
   - Chaining
@@ -59,22 +59,22 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if`
-  - `while`
-  - `do..while`
-  - `for`
-  - `for..in`
-  - `for..of`
+  - `if` +
+  - `while` +
+  - `do..while` +
+  - `for` +
+  - `for..in` +
+  - `for..of` +
   - `for await`
   - `throw`
-  - `break`
+  - `break` +
   - `continue`
-  - `import`
-  - `export`
+  - `import` +
+  - `export` +
   - `label`
   - `try..catch`
-  - `switch`
-  - `class`
+  - `switch` +
+  - `class` +
   - `extends`
   - `with`
   - `new`
@@ -102,9 +102,9 @@
   - `Proxy`
   - `RegExp`
   - `Date`
-  - `Math`
+  - `Math` +
   - `Reflect`
-  - `Error`
+  - `Error` +
   - `Atomics`
   - `JSON`
   - `WeakRef`
@@ -115,8 +115,8 @@
   - Timers
 - Infrastructure
   - V8
-  - Node.js
-  - npm
-  - prettier
+  - Node.js +
+  - npm +
+  - prettier +
   - MDN
   - TC39
