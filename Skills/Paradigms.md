@@ -63,9 +63,9 @@
   - Liskov substitution principle (LSP)
   - Interface segregation principle (ISP)
   - Dependency inversion principle (DIP)
-- Patterns
+- Patterns +
   - Singleton
-  - Factory Method
+  - Factory Method +
   - Abstract Factory
   - Adapter
   - Observer
